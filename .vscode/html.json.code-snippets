@@ -1,0 +1,14 @@
+{
+	"PHP Tag" :{
+		"prefix": "php",
+		"body": "<?php $1 ?>"
+	},
+	"Inline Exho":{
+		"prefix": "phpp",
+		"body": "<?= $$1; ?>"
+	},
+	"ajax": {
+		"prefix": "ajax",
+		"body": "<?= $$1; ?>"
+	}
+}
